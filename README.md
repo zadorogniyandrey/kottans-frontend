@@ -27,3 +27,6 @@
 ## Responsive Web Design
 
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_responsive_web_design/frog.jpg">
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_responsive_web_design/carrot.jpg">
+
+- with Flez and Grid makes site layout much easier.
