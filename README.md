@@ -23,3 +23,7 @@
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_html_css_intro/CSS.jpg">
 
 -improved knowledge of html and css;
+
+## Responsive Web Design
+
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_responsive_web_design/frog.jpg">
