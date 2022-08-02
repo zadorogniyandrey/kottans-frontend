@@ -16,3 +16,10 @@
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_git_collaboration/git2.jpg">
 
 -expanded knowledge of git;
+
+<h2>## Intro to HTML and CSS</h2>
+
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_html_css_intro/HTML.jpg">
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_html_css_intro/CSS.jpg">
+
+-improved knowledge of html and css;
