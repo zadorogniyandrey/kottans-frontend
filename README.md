@@ -30,3 +30,12 @@
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_responsive_web_design/carrot.jpg">
 
 - with Flez and Grid makes site layout much easier.
+
+## JS Basics
+
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/jsData.jpg">
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/jsBasic.jpg">
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/Functional_Programming.jpg">
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/ES6.jpg">
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/Algoritm2.jpg">
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/Algoritm.jpg">
