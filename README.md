@@ -43,3 +43,5 @@
 ## DOM
 
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_dom/final_algoritm.jpg">
+
+-JS is more difficult than HTML and CSS. Need more practice
