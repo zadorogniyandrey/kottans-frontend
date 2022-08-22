@@ -39,3 +39,7 @@
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/ES6.jpg">
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/Algoritm2.jpg">
 <img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_basics/Algoritm.jpg">
+
+## DOM
+
+<img src="https://github.com/zadorogniyandrey/kottans-frontend/blob/main/task_js_dom/final_algoritm.jpg">
